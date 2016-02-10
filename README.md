@@ -1,3 +1,2 @@
 # debianscripts
-Some scripts we use, working on debian
-We will be adding code to the repository in the coming weeks.
+Some scripts we use, working on debian - Code will be adding to the repository in the coming weeks.
